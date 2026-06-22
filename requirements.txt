@@ -1,0 +1,9 @@
+streamlit
+catboost
+scikit-learn
+PyWavelets
+scikit-image
+numpy
+pandas
+matplotlib
+scipy
