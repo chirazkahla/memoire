@@ -4,7 +4,7 @@
 
 This repository contains the Master's thesis entitled:
 
-**"Detection and Progression Analysis of Knee Osteoarthritis using Advanced Deep Learning and MRI"**
+**"Advanced Deep Learning and Imaging Techniques for EarlyDetection and Progression Analysis of Knee Osteoarthritis"**
 
 The project proposes a computer-aided diagnosis framework for the automated analysis of Knee Osteoarthritis (KOA) using Magnetic Resonance Imaging (MRI) and advanced deep learning techniques.
 
